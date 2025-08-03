@@ -15,4 +15,4 @@ We're rebuilding what connected America the first time.
 
 *Stay tuned.*
 
-© 2024 AOL, a subsidiary of GLCTC Corp. All rights reserved.
+© 2025 AOL, a subsidiary of GLCTC Corp. All rights reserved.
