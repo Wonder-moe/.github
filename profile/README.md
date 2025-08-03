@@ -100,6 +100,6 @@ For developer resources and API documentation, visit our [Developer Portal](#).
 [License details pending]
 
 ---
-© 2024 AOL, a subsidiary of GLCTC Corp. All rights reserved.
+© 2025 AOL, a subsidiary of GLCTC Corp. All rights reserved.
 
 *AOL: From chips to satellites, from social media to email - connecting America with innovation, reliability, and service excellence.*
