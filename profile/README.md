@@ -4,78 +4,62 @@
 
 ### NAVIGATE BEYOND
 
-**Technology · Media · Games · The Open Web**
+**Technology · Media · Entertainment**
 
-*Building more connected ways to create, communicate, discover, watch, and play.*
+*Connecting people, ideas, stories, and experiences.*
 
-[Explore Wonder](https://wonder.moe) · [Our GitHub organization](https://github.com/Wonder-moe)
+[Discover Wonder](https://wonder.moe)
 
 </div>
 
 ---
 
-## What is Wonder?
+## Who we are
 
-**Wonder is the consumer-facing technology, media, and entertainment initiative within the GLCTC group.**
+**Wonder is a consumer-facing technology, media, and entertainment company within the GLCTC group.**
 
-Our aim is to make the services people use every day work better together: communication, discovery, entertainment, interactive experiences, and the infrastructure behind them.
+We are building a connected world of experiences where people can discover, create, communicate, learn, watch, and play.
 
-We believe the next generation of consumer technology should offer genuine user choice, an open and interoperable web, and room for independent creativity.
+Our ambition is to bring together the best of digital life without losing sight of what matters most: the people who use it.
 
-**One connected ecosystem. Distinct experiences. A user in control.**
+**One vision. Many experiences. More possibilities.**
 
-## Six parts of one vision
+## Our six areas
 
-| Area | Direction |
+| Area | Our vision |
 | --- | --- |
-| **Social** | **Wonder.moe**: a social experience being developed around **Trails** (posts), **WonderVid** (video), and **WonderLive** (live streaming). |
-| **Platform** | Browser technology, cloud services, messaging, search, identity, and shared software foundations designed to support the broader ecosystem. |
-| **Studio** | **Wonder TV** and **Wonder News**: planned original programming, digital video, journalism, and creator-focused media experiences. |
-| **Publishing** | Stories and creative worlds that can travel across written, illustrated, animated, and interactive formats. |
-| **Infrastructure** | **WonderFiber** and **WonderMobile**: longer-term plans for connectivity and mobile services. |
-| **Games** | Game technology, interactive entertainment, developer tools, and future publishing experiences. |
+| **Social** | Communities built around authentic connection, expression, and discovery. |
+| **Platform** | Thoughtful digital experiences that put people, choice, and openness first. |
+| **Studio** | Original entertainment, journalism, and stories that inform and inspire. |
+| **Publishing** | Creative works and stories that reach audiences across formats and cultures. |
+| **Infrastructure** | Better connections and greater access to the experiences people value. |
+| **Games** | Interactive entertainment, imaginative worlds, and unforgettable experiences. |
 
-These are product directions, not a claim that all services have launched.
+Together, these areas form a shared vision: services and experiences that complement one another while standing on their own merits.
 
-## Technology we're developing
+## What we believe
 
-Our engineering work spans several complementary areas:
+**People come first.** The best experiences respect their audience rather than trying to control it.
 
-- **Wonder.moe** — social-platform foundations, accounts, content, and creator experiences.
-- **Meridian & Project Constellation** — browser-engine research and a consumer browser built around the open web.
-- **MBPA** — an exploration of modern browser plug-in architecture.
-- **CompuServe Platform** — cloud and application infrastructure.
-- **AIM** — modern messaging and secure-communications research.
-- **TachyonFTLP** — low-latency streaming transport and related tooling.
-- **Whirlpool** — search and discovery technology.
-- **DawnEngine** — game-engine and interactive-content technology.
-- **Spectra** — an exploratory digital-commerce concept, subject to legal and product review.
+**Choice matters.** People should have meaningful control over how they participate, discover, and connect.
 
-Some development repositories are private. A project's presence here describes an initiative, not a verified feature set, security certification, or commercial release.
+**Creativity deserves room to grow.** Great ideas should be able to move between formats, communities, and audiences.
 
-## Principles that guide us
+**Trust must be earned.** We value clarity, accountability, accessibility, and long-term relationships.
 
-**Choice before manipulation.** We envision social feeds that are chronological by default, with recommendation features that people can understand and opt into.
+**Build for the long term.** We care about enduring experiences, not just fleeting attention.
 
-**An open web worth building for.** Browsers and web technologies should empower users and developers rather than impose unnecessary lock-in.
+## Looking ahead
 
-**Create across formats.** Stories, communities, games, and video should be able to reinforce one another without losing their individual identities.
-
-**Build useful foundations.** Infrastructure, identity, streaming, and commerce should reduce duplicated effort across products.
-
-**Earn trust with evidence.** Privacy, security, accessibility, performance, and reliability must be demonstrated through engineering and testing—not slogans.
-
-## Development status
-
-Wonder is in an **early-stage buildout** across its portfolio. Products and initiatives are at different stages of development or planning; no broad public availability is implied by this profile. We will announce releases, public documentation, contribution opportunities, and service availability as each is ready.
-
-Individual repositories will specify their own licenses, support policies, and participation guidelines when published. **Do not assume a repository is open source unless its license says so.**
+Wonder is building toward this vision in stages. Some initiatives are in development, while others remain longer-term ambitions. We will share public launches and opportunities to participate when they are ready.
 
 ---
 
 <div align="center">
 
-**WONDER** · *Navigate Beyond*
+**WONDER**
+
+*Navigate Beyond.*
 
 Part of the GLCTC group.
 
