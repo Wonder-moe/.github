@@ -1,49 +1,36 @@
-# Wonder Moe Technologies
+# Wonder · GitHub Organization
 
-Building the future of digital connection through innovative social platforms, secure communication protocols, and next-generation devices.
+**Navigate Beyond.** Wonder is the consumer-facing technology, media, and entertainment initiative within the GLCTC group.
 
-## 🌟 Our Products
+> **Public organization profile:** [Read the Wonder introduction](profile/README.md).
 
-### Wonder.moe
-A next-generation social media platform prioritizing user experience and authentic engagement.
-- Chronological feed with smart enhancements
-- Multi-tier membership options
-- Integrated Spectra virtual currency
-- Advanced privacy and security features
+## Our direction
 
-### Tachyon Protocol
-High-performance secure communication protocol designed for modern applications.
-- Ultra-low latency
-- Quantum-resistant security
-- Advanced error correction
-- Robust recovery systems
+Wonder is developing a connected ecosystem across six areas:
 
-### WNDR/1
-Windows 11-based mobile device combining premium hardware with sustainable design.
-- Full Windows 11 compatibility
-- Premium Zeiss camera system
-- Advanced security features
-- Sustainable materials and construction
+1. **Social** — Wonder.moe, including Trails, WonderVid, and WonderLive.
+2. **Platform** — browser technologies, search, messaging, identity, cloud, and streaming.
+3. **Studio** — original video, journalism, and creator-focused media.
+4. **Publishing** — stories and creative properties across formats.
+5. **Infrastructure** — future connectivity and mobile-service experiences.
+6. **Games** — game technology, developer tools, and interactive entertainment.
 
-## 🚀 Quick Links
+The goal is shared foundations with distinct product experiences, grounded in user choice, interoperability, and responsible engineering.
 
-- [Wonder.moe Platform](https://wonder.moe)
-- [Developer Documentation](#)
-- [Support Resources](#)
+## Engineering portfolio
 
-## 💡 Getting Started
+Development initiatives include **Wonder.moe, Meridian, Project Constellation, MBPA, CompuServe Platform, AIM, TachyonFTLP, Whirlpool, DawnEngine, and Spectra**. Some repositories are private or at an exploratory stage. These names identify areas of work, not released products or independently verified capabilities.
 
-Visit [wonder.moe](https://wonder.moe) to create an account and explore our ecosystem.
+## Current status
 
-For developer resources and API documentation, visit our [Developer Portal](#).
+Wonder's wider ecosystem remains under development or planning. Public launches, availability, contributor instructions, and licenses will be announced at the appropriate project level. Not all code in the organization is publicly available or open source.
 
-## 📞 Contact
+## Links
 
-- Website: [wonder.moe](https://wonder.moe)
-- Support: [support@wonder.moe](mailto:support@wonder.moe)
-
-## 📄 License
-[License details pending]
+- [Wonder organization profile](profile/README.md)
+- [Wonder website](https://wonder.moe)
+- [GitHub organization](https://github.com/Wonder-moe)
 
 ---
-© 2024 Wonder Moe Technologies. All rights reserved.
+
+**Wonder — Navigate Beyond.** Part of the GLCTC group.
