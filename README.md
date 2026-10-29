@@ -1,34 +1,34 @@
-# Wonder · GitHub Organization
+# WONDER
 
-**Navigate Beyond.** Wonder is the consumer-facing technology, media, and entertainment initiative within the GLCTC group.
+**Navigate Beyond.**
 
-> **Public organization profile:** [Read the Wonder introduction](profile/README.md).
+Wonder is a consumer-facing technology, media, and entertainment company within the GLCTC group.
 
-## Our direction
+We are working toward a connected world of experiences that help people discover, create, communicate, learn, watch, and play.
 
-Wonder is developing a connected ecosystem across six areas:
+## Our vision
 
-1. **Social** — Wonder.moe, including Trails, WonderVid, and WonderLive.
-2. **Platform** — browser technologies, search, messaging, identity, cloud, and streaming.
-3. **Studio** — original video, journalism, and creator-focused media.
-4. **Publishing** — stories and creative properties across formats.
-5. **Infrastructure** — future connectivity and mobile-service experiences.
-6. **Games** — game technology, developer tools, and interactive entertainment.
+Our work spans six complementary areas:
 
-The goal is shared foundations with distinct product experiences, grounded in user choice, interoperability, and responsible engineering.
+- **Social** — meaningful communities, self-expression, and discovery.
+- **Platform** — open, intuitive, people-first digital experiences.
+- **Studio** — original entertainment, journalism, and storytelling.
+- **Publishing** — creative works across formats and audiences.
+- **Infrastructure** — broader access and better connections.
+- **Games** — interactive entertainment and imaginative worlds.
 
-## Engineering portfolio
+We believe in user choice, creative freedom, earned trust, and long-term thinking.
 
-Development initiatives include **Wonder.moe, Meridian, Project Constellation, MBPA, CompuServe Platform, AIM, TachyonFTLP, Whirlpool, DawnEngine, and Spectra**. Some repositories are private or at an exploratory stage. These names identify areas of work, not released products or independently verified capabilities.
+## Where we are
 
-## Current status
+Wonder is developing its broader vision in stages. The existence of an initiative should not be taken to mean it is publicly launched or commercially available.
 
-Wonder's wider ecosystem remains under development or planning. Public launches, availability, contributor instructions, and licenses will be announced at the appropriate project level. Not all code in the organization is publicly available or open source.
+Individual repositories carry their own documentation, licenses, and contribution requirements. Public visibility does not automatically grant permission to reuse code.
 
-## Links
+## Find us
 
-- [Wonder organization profile](profile/README.md)
-- [Wonder website](https://wonder.moe)
+- [Wonder's public organization profile](profile/README.md)
+- [Website](https://wonder.moe)
 - [GitHub organization](https://github.com/Wonder-moe)
 
 ---
